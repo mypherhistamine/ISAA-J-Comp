@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397510750755",
+    "project_id": "isaa-a1ba2",
+    "storage_bucket": "isaa-a1ba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397510750755:android:4c4082c189eb1c2792f796",
+        "android_client_info": {
+          "package_name": "com.example.flutter_gdrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397510750755-otjacsh1cej72pk17iu3vjrgkdedielg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKLyHacKD6nQ6eJE3c2YkB-BYxnCks-OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397510750755-otjacsh1cej72pk17iu3vjrgkdedielg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
